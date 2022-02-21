@@ -13,7 +13,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Design Patterns" Type="Folder">
 			<Item Name="Behavioral" Type="Folder"/>
-			<Item Name="Creational" Type="Folder"/>
+			<Item Name="Creational" Type="Folder">
+				<Item Name="FactoryMethod.lvlib" Type="Library" URL="../Creational/FactoryMethod/FactoryMethod.lvlib"/>
+			</Item>
 			<Item Name="Structural" Type="Folder"/>
 		</Item>
 		<Item Name="Support" Type="Folder">
@@ -24,7 +26,7 @@
 				<Item Name="hse-logger.lvlib" Type="Library" URL="../Support/Lib/hse-logger.lvlib"/>
 			</Item>
 			<Item Name="VI" Type="Folder">
-				<Item Name="GetClassName.vi" Type="VI" URL="../Support/VI/GetClassName.vi"/>
+				<Item Name="GetClassName.vi" Type="VI" URL="../../../NI LabVIEW/My-LV-OOP-Design-Patterns/Support/VI/GetClassName.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
