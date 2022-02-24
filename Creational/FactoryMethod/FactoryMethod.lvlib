@@ -11,9 +11,11 @@
 		<Item Name="ConcreteProductB.lvclass" Type="LVClass" URL="../Base_Example/ConcreteProductB/ConcreteProductB.lvclass"/>
 		<Item Name="Creator.lvclass" Type="LVClass" URL="../Base_Example/Creator/Creator.lvclass"/>
 		<Item Name="FactoryMethodDemo.lvclass" Type="LVClass" URL="../Base_Example/FactoryMethodDemo/FactoryMethodDemo.lvclass"/>
-		<Item Name="Product.lvclass" Type="LVClass" URL="../Base_Example/ConcreteCreatorB/Product/Product.lvclass"/>
+		<Item Name="Product.lvclass" Type="LVClass" URL="../Base_Example/Product/Product.lvclass"/>
 	</Item>
-	<Item Name="GoF_Example" Type="Folder"/>
+	<Item Name="GoF_Example" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+	</Item>
 	<Item Name="Head-First_Example" Type="Folder"/>
 	<Item Name="UML - Factory Method.png" Type="Document" URL="../UML - Factory Method.png"/>
 </Library>

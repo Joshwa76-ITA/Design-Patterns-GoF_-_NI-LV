@@ -14,6 +14,14 @@
 		<Item Name="Design Patterns" Type="Folder">
 			<Item Name="Behavioral" Type="Folder"/>
 			<Item Name="Creational" Type="Folder">
+				<Item Name="GoFcommonClasses" Type="Folder">
+					<Item Name="ConcreteMazeSite" Type="Folder">
+						<Item Name="Wall.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/Wall/Wall.lvclass"/>
+						<Item Name="BombedWall.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/BombedWall/BombedWall.lvclass"/>
+					</Item>
+					<Item Name="MazeSite.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/MazeSite/MazeSite.lvclass"/>
+					<Item Name="Direction.ctl" Type="VI" URL="../Creational/GoFcommonClasses/Direction.ctl"/>
+				</Item>
 				<Item Name="FactoryMethod.lvlib" Type="Library" URL="../Creational/FactoryMethod/FactoryMethod.lvlib"/>
 			</Item>
 			<Item Name="Structural" Type="Folder"/>
@@ -21,6 +29,7 @@
 		<Item Name="Support" Type="Folder">
 			<Item Name="Class" Type="Folder">
 				<Item Name="ConsoleOutput.lvclass" Type="LVClass" URL="../Support/Class/ConsoleOutput.lvclass"/>
+				<Item Name="IDisposable.lvclass" Type="LVClass" URL="../Support/Class/IDisposable/IDisposable.lvclass"/>
 			</Item>
 			<Item Name="Lib" Type="Folder">
 				<Item Name="hse-logger.lvlib" Type="Library" URL="../Support/Lib/hse-logger.lvlib"/>
