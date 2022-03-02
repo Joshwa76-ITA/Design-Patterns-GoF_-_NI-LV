@@ -18,8 +18,13 @@
 					<Item Name="ConcreteMazeSite" Type="Folder">
 						<Item Name="Wall.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/Wall/Wall.lvclass"/>
 						<Item Name="BombedWall.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/BombedWall/BombedWall.lvclass"/>
+						<Item Name="Room.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/Room/Room.lvclass"/>
+						<Item Name="RoomWithBomb.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/RoomWithBomb/RoomWithBomb.lvclass"/>
+						<Item Name="Door.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/Door/Door.lvclass"/>
+						<Item Name="EnchantedRoom.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/EnchantedRoom/EnchantedRoom.lvclass"/>
 					</Item>
 					<Item Name="MazeSite.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/MazeSite/MazeSite.lvclass"/>
+					<Item Name="Spell.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/Spell/Spell.lvclass"/>
 					<Item Name="Direction.ctl" Type="VI" URL="../Creational/GoFcommonClasses/Direction.ctl"/>
 				</Item>
 				<Item Name="FactoryMethod.lvlib" Type="Library" URL="../Creational/FactoryMethod/FactoryMethod.lvlib"/>

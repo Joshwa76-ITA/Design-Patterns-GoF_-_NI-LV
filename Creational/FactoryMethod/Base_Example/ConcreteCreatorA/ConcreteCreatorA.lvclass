@@ -31,13 +31,13 @@
 	</Item>
 	<Item Name="API" Type="Folder">
 		<Item Name="Dispose.vi" Type="VI" URL="../API/Dispose.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!1E"Q!"Y!!#Y42G&amp;D&gt;'^S?5VF&gt;'BP:#ZM&gt;GRJ9BB$&lt;WZD=G6U:5.S:7&amp;U&lt;X*",GRW9WRB=X-!!!B*2'FT='^T:1!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!(!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%(!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!3E"Q!"Y!!#Y42G&amp;D&gt;'^S?5VF&gt;'BP:#ZM&gt;GRJ9BB$&lt;WZD=G6U:5.S:7&amp;U&lt;X*",GRW9WRB=X-!!""$&lt;WZD=G6U:5.S:7&amp;U&lt;X*"!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!"A-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!=!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="FactoryMethod.vi" Type="VI" URL="../API/FactoryMethod.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'0!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!F%U:B9X2P=HF.:82I&lt;W1O&lt;(:M;7)05(*P:(6D&gt;#ZM&gt;G.M98.T!!B1=G^E&gt;7.U,A!!4E"Q!"Y!!#Y42G&amp;D&gt;'^S?5VF&gt;'BP:#ZM&gt;GRJ9BB$&lt;WZD=G6U:5.S:7&amp;U&lt;X*",GRW9WRB=X-!!"2$&lt;WZD=G6U:5.S:7&amp;U&lt;X*")'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"-1(!!(A!!,B.'97.U&lt;X*Z476U;'^E,GRW&lt;'FC'%.P&lt;G.S:82F1X*F982P=E%O&lt;(:D&lt;'&amp;T=Q!!%U.P&lt;G.S:82F1X*F982P=E%A;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
