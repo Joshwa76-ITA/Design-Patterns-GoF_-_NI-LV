@@ -25,6 +25,7 @@
 					</Item>
 					<Item Name="MazeSite.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/MazeSite/MazeSite.lvclass"/>
 					<Item Name="Spell.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/Spell/Spell.lvclass"/>
+					<Item Name="Maze.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/Maze/Maze.lvclass"/>
 					<Item Name="Direction.ctl" Type="VI" URL="../Creational/GoFcommonClasses/Direction.ctl"/>
 				</Item>
 				<Item Name="FactoryMethod.lvlib" Type="Library" URL="../Creational/FactoryMethod/FactoryMethod.lvlib"/>
