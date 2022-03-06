@@ -15,7 +15,7 @@
 	</Item>
 	<Item Name="GoF_Example" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="MazeGame.lvclass" Type="LVClass" URL="../GoF_Example/MazeGame/MazeGame.lvclass"/>
+		<Item Name="NoParametrizedFactoryMethod.lvlib" Type="Library" URL="../GoF_Example/NoParametrizedFactoryMethod/NoParametrizedFactoryMethod.lvlib"/>
 	</Item>
 	<Item Name="Head-First_Example" Type="Folder"/>
 	<Item Name="UML - Factory Method.png" Type="Document" URL="../UML - Factory Method.png"/>

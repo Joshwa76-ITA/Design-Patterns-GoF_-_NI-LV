@@ -22,6 +22,7 @@
 						<Item Name="RoomWithBomb.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/RoomWithBomb/RoomWithBomb.lvclass"/>
 						<Item Name="Door.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/Door/Door.lvclass"/>
 						<Item Name="EnchantedRoom.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/EnchantedRoom/EnchantedRoom.lvclass"/>
+						<Item Name="DoorNeedingSpell.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/ConcreteMazeSite/DoorNeedingSpell/DoorNeedingSpell.lvclass"/>
 					</Item>
 					<Item Name="MazeSite.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/MazeSite/MazeSite.lvclass"/>
 					<Item Name="Spell.lvclass" Type="LVClass" URL="../Creational/GoFcommonClasses/Spell/Spell.lvclass"/>
