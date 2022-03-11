@@ -6,6 +6,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="BombedMazeGame.lvclass" Type="LVClass" URL="../BombedMazeGame/BombedMazeGame.lvclass"/>
 	<Item Name="ClientDemo.lvclass" Type="LVClass" URL="../ClientDemo/ClientDemo.lvclass"/>
 	<Item Name="EnchantedMazeGame.lvclass" Type="LVClass" URL="../EnchantedMazeGame/EnchantedMazeGame.lvclass"/>
 	<Item Name="MazeGame.lvclass" Type="LVClass" URL="../MazeGame/MazeGame.lvclass"/>

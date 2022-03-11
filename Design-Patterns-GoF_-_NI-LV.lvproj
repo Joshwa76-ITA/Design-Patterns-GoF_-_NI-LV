@@ -42,7 +42,7 @@
 				<Item Name="hse-logger.lvlib" Type="Library" URL="../Support/Lib/hse-logger.lvlib"/>
 			</Item>
 			<Item Name="VI" Type="Folder">
-				<Item Name="GetClassName.vi" Type="VI" URL="../../../NI LabVIEW/My-LV-OOP-Design-Patterns/Support/VI/GetClassName.vi"/>
+				<Item Name="GetClassName.vi" Type="VI" URL="../Support/VI/GetClassName.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
