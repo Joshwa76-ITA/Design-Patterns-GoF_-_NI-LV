@@ -17,6 +17,7 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="NoParametrizedFactoryMethod.lvlib" Type="Library" URL="../GoF_Example/NoParametrizedFactoryMethod/NoParametrizedFactoryMethod.lvlib"/>
 		<Item Name="ParameterizedFactoryMethod.lvlib" Type="Library" URL="../GoF_Example/ParameterizedFactoryMethod/ParameterizedFactoryMethod.lvlib"/>
+		<Item Name="FactoryMethodLazyEvaluation.lvlib" Type="Library" URL="../GoF_Example/FactoryMethodLazyEvaluation/FactoryMethodLazyEvaluation.lvlib"/>
 	</Item>
 	<Item Name="Head-First_Example" Type="Folder"/>
 	<Item Name="UML - Factory Method.png" Type="Document" URL="../UML - Factory Method.png"/>
