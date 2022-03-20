@@ -19,6 +19,8 @@
 		<Item Name="ParameterizedFactoryMethod.lvlib" Type="Library" URL="../GoF_Example/ParameterizedFactoryMethod/ParameterizedFactoryMethod.lvlib"/>
 		<Item Name="FactoryMethodLazyEvaluation.lvlib" Type="Library" URL="../GoF_Example/FactoryMethodLazyEvaluation/FactoryMethodLazyEvaluation.lvlib"/>
 	</Item>
-	<Item Name="Head-First_Example" Type="Folder"/>
+	<Item Name="Head-First_Example" Type="Folder">
+		<Item Name="PizzaFactoryMethod.lvlib" Type="Library" URL="../Head-First_Example/PizzaFactoryMethod/PizzaFactoryMethod.lvlib"/>
+	</Item>
 	<Item Name="UML - Factory Method.png" Type="Document" URL="../UML - Factory Method.png"/>
 </Library>
