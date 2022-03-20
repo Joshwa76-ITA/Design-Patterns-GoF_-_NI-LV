@@ -45,6 +45,7 @@
 				<Item Name="GetClassName.vi" Type="VI" URL="../Support/VI/GetClassName.vi"/>
 			</Item>
 		</Item>
+		<Item Name="ByRef.lvclass" Type="LVClass" URL="../../../ByRef/ByRef.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
