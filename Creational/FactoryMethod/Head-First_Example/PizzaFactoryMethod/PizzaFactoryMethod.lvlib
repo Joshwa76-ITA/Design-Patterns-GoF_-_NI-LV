@@ -6,8 +6,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="ChicagoPizzaStore.lvclass" Type="LVClass" URL="../ChicagoPizzaStore/ChicagoPizzaStore.lvclass"/>
 	<Item Name="ChicagoStyleCheesePizza.lvclass" Type="LVClass" URL="../ChicagoStyleCheesePizza/ChicagoStyleCheesePizza.lvclass"/>
 	<Item Name="ChicagoStyleClamPizza.lvclass" Type="LVClass" URL="../ChicagoStyleClamPizza/ChicagoStyleClamPizza.lvclass"/>
+	<Item Name="ChicagoStylePepperoniPizza.lvclass" Type="LVClass" URL="../ChicagoStylePepperoniPizza/ChicagoStylePepperoniPizza.lvclass"/>
+	<Item Name="ChicagoStyleVeggiePizza.lvclass" Type="LVClass" URL="../ChicagoStyleVeggiePizza/ChicagoStyleVeggiePizza.lvclass"/>
 	<Item Name="NYPizzaStore.lvclass" Type="LVClass" URL="../NYPizzaStore/NYPizzaStore.lvclass"/>
 	<Item Name="NYStyleCheesePizza.lvclass" Type="LVClass" URL="../NYStyleCheesePizza/NYStyleCheesePizza.lvclass"/>
 	<Item Name="NYStyleClamPizza.lvclass" Type="LVClass" URL="../NYStyleClamPizza/NYStyleClamPizza.lvclass"/>
